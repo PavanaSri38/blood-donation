@@ -56,3 +56,5 @@ Supports scalability and cross-platform deployment (iOS, Android, Web)
 Pitch Video Link: https://drive.google.com/file/d/1DEmSFVPd99uIy5IaZcPeXSQIBKnKb-RU/view?usp=drivesdk
 
 Demo Video Link: https://drive.google.com/file/d/1S77EH3ua5NDeh9rCRZvnHXb39GjZWfZS/view?usp=sharing
+
+Detailed overview:https://drive.google.com/file/d/1d8SLVeofzpl6hSFjkYs82l9MMvzeP1bc/view?usp=sharing
